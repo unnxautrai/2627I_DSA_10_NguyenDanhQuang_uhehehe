@@ -1,0 +1,6 @@
+test case sai:
+n = 3
+leader = [1, 2, 3]
+union(3, 1); union(1, 2);
+dãy leader đúng = [2, 2, 2]
+dãy leader thực tế = [2, 2, 1]

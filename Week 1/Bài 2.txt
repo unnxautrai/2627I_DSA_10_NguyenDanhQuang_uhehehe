@@ -1,0 +1,4 @@
+a. 1 thành phần liên thông
+b. n * (n - 1) / 2
+c. O(n)
+d. O(logn)
