@@ -1,0 +1,7 @@
+a. n
+b. 1
+c. 1
+d. 2n^3
+e. 1
+f. 2
+g. xấp xỉ 0 vì 2^N tang nhanh hơn n^100

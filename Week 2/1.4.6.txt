@@ -1,0 +1,3 @@
+a. O(n)
+b. O(n)
+c. O(nlogn)

@@ -1,0 +1,9 @@
+Trường hợp cơ sở:
+N = 3 -> có 3 phần tử -> 1 cách chọn -> áp dụng công thức ra 1 -> đúng trường hợp cơ sở
+Quy nạp:
+Giả sử đúng với n = k (k >= 3) -> xét n = k + 1 -> công thức là (k + 1)*k*(k - 1)/6
+Xét tập k + 1 phần tử, có 2 trường hợp sau:
+TH1: cả 3 phần tử được chọn từ k phần tử đầu -> k * (k - 1) * (k - 2) / 6 cách
+TH2: trong 3 phần tử chọn có phần tử k + 1 -> chỉ cần chọn 2 phần tử từ k phần tử đầu
+-> có k * (k - 1) / 2 cách chọn
+-> tổng là k * (k - 1) * (k - 2) / 6 + k * (k - 1) / 2 = (k + 1) * k * (k - 1) / 6

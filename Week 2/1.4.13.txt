@@ -1,0 +1,7 @@
+a. 32 bytes
+b. 40 bytes
+c. 56 + 8C bytes (C là kích thước string)
+d. 32 bytes
+e. 32 bytes
+f. 96 bytes
+g. 24 bytes

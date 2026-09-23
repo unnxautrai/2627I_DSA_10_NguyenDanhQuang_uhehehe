@@ -1,0 +1,2 @@
+javac -cp .;algs4.jar edu/princeton/cs/algs4/FileName.java
+java -cp .;algs4.jar edu.princeton.cs.algs4.FileName input.txt

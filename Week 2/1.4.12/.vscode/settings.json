@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "${workspaceFolder}/algs4.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}
